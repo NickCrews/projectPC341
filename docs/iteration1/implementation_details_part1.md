@@ -7,7 +7,9 @@ Implementation Summary (2): A separate document as Word or PDF is given that des
 ## Content
 
 **Authors**: Michal, Nelson, and Nick
+
 Github repository can be found here: https://github.com/NickCrews/projectPC341
+
 Our main notebooks are *DataExploration.ipynb* and *preprocessing.ipynb*. See the *readme.md* file for more info. 
 
 The main accomplishments of our team for this checkpoint were
