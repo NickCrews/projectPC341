@@ -8,3 +8,22 @@
   * ...
 * What is our baseline model? Maybe just use the average yield for all schools? Average yield per high-school?
 * What is our evaluating function? RMSE? Are we using yield ratio or the straight yield number?
+
+
+STEPS:
+
+- Fix region assignment
+- Add new data to notebook (cleaning)
+
+
+
+- New visualizations:
+  - Preference to students from out of state
+  - Admission vs SAT scores, ACT scores
+  - Yield vs SAT scored, ACT scores
+  - Yield/Admission by race
+ 
+- Correlations:
+  - GPA vs yield/admission
+  - School vs yield/admission
+  - SAT/ACT vs yield/admission
