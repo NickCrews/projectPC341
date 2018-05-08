@@ -17,4 +17,5 @@ Moreover, we decided to store the data inside of the repository. The data can be
 
 Additional documentation about the project can be found in the [**/docs**](/docs) catalog.
 
+To see the latest progress we have made, see [**/experiments**](/experiments).
 
