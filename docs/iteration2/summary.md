@@ -12,9 +12,9 @@ described in the **Data Cleaning** section.
 
 ## Data Cleaning
 
-**For more detailed information about our data cleanup method, see:
+**For more detailed information about our data cleanup method, see:**
   - [/preprocessing.ipynb](/preprocessing.ipynb)
-  - [/TestScores.ipynb](/TestScores.ipynb)**
+  - [/TestScores.ipynb](/TestScores.ipynb)
 
 ### Data cleanup from iteration 1
 
