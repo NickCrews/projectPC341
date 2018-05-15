@@ -11,7 +11,7 @@ The only comments we have received after Iteration 2 were concerned with our pre
 - [/MergingTestScores.ipynb](/MergingTestScores.ipynb) merges the two test score frames into one and resaves them (Michal)
 - [/FindingCdsNumbers.ipynb](/FindingCdsNumbers.ipynb) takes the test dataset from the previous notebook and matches school names to ID numbers, so that we can combine the test score data with the GPA, count, and distance data. Do that, and save the result (Michal)
 - [/DataExploration.ipynb](/DataExploration.ipynb) gives some visualizations for the initial GPA and count data. (Nelson and Nick)
-- [/Modelling.ipynb](/Modelling.ipynb) does all the splitting, normalizing, and then actual fitting with our linear and baseline models (All three of us contributed to this)
+- [/Modeling.ipynb](/Modeling.ipynb) does all the splitting, normalizing, and then actual fitting with our linear and baseline models (All three of us contributed to this)
 
 All the data can be found in the /data catalog.
 Additional documentation about the project can be found in the /docs catalog.
